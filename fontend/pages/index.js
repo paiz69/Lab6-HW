@@ -7,7 +7,7 @@ const URL = `http://localhost/api/students`
 export default function Home() {
   const [students,setStudents] = useState({
     list: [
-      { "id": 1, "name": "Sirinyapat", "surname": "Boonwong", "major": "CoE", "GPA": 3.02 },
+      { "id": 1, "name": "Susy ", "surname": "Wing ", "major": "CoE ", "GPA": 3.02 },
     ]
   })
 

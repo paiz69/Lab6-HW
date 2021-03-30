@@ -13,7 +13,7 @@ app.use('/api', bodyParser.urlencoded({ extended: false }), router);
 
 let students = {
     list: [
-        { "id": 1, "name": "warinthon", "surname": "jaitrong", "major": "CoE", "GPA": 2.64 },
+        { "id": 1, "name": "Thanida ", "surname": "Wichaidit ", "major": "CoE ", "GPA": 3.05 },
     ]
 }
 
